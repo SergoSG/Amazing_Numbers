@@ -1,0 +1,27 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    public class Main {
+
+        public static void main(String[] args) {
+        // write your program here
+        }
+    }
+
+    /* sample enum for inspiration
+       enum Secret {
+        STAR, CRASH, START, // ...
+    }
+    */
+  learner_created: false
+- name: src/Task.java
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/11521#comment
+status: Failed
+feedback:
+  message: 'Unknown language: java11. Please reload the page and try again'
+  time: Mon, 20 Dec 2021 08:54:15 UTC
+record: -1
